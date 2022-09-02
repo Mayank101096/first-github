@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a1{color: white;
+background-color: rgb(2, 2, 92);
+text-align: center;
+}
+h6{text-decoration: underline;}
+img {width: 250px;
+height: 170px;}
+h5{text-decoration: underline;
+color: red;}
+h3{text-align: center;}
+
+a:link{
+color: white;
+}
+a:visited{
+color: red;
+}
+a:hover{
+color: aquamarine;
+}
+a:active{
+color: darkgreen;
+}
+h4{text-align: left;}
